@@ -52,7 +52,7 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 - **Technologies Used**: C and makefile.
 - **Key Features**: from 2D to 3D, ray tracing, wall collision.
 
-#### ⚙️ [Push_Swap]()
+#### ⚙️ [Push_Swap](https://github.com/Rmehadje/push_swap.git)
 - **Description**: The **Push Swap** project involves creating a sorting algorithm for a stack of integers. The goal is to sort the numbers in ascending order using a limited set of operations (push, swap, rotate, and reverse rotate) and to achieve this with minimal moves. This project emphasizes understanding data structures and algorithm optimization.
 - **Technologies Used**: C and makefile.
 - **Key Features**: 
