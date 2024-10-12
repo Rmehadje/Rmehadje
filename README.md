@@ -32,6 +32,34 @@ I'm a dedicated developer with a strong focus on coding in **C**, **C++**, **Jav
 #### 🗄️ Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+### 🚀 My Projects
+
+Here are some of the projects I've worked on that I'm particularly proud of:
+
+#### 🏗️ [IRC](https://github.com/Zorgonth/IRC.git)
+- **Description**: An application-level Protocol used to send messages in real-time, the messages are either sent to channels with multiple users or could be sent privately as well,
+                   also equipped with a multitude of commands for profile and channel creation with a bot that helps you through your tasks!
+- **Technologies Used**: C++, Makefile.
+- **Key Features**: sending messages, sending files, interacting with a cool bot system.
+
+#### 📊 [Transcendence](https://github.com/Melsso/Transcendence.git)
+- **Description**:A gaming platform featuring Pong and Riccochet Robots, where users can create accounts, edit profiles, play games, host tournaments, and chat in real-time, it uses Redis, Daphne, and WebSockets for a seamless, real-time experience. Deployed efficiently with Docker Compose.
+- **Technologies Used**: Django, PostgreSQL, and a JS/HTML/Bootstrap frontend.
+- **Key Features**: Profile creation, friend system, chat system, multiplayer, vsAI, 1v1.
+
+#### :godmode: [Cub 3D](https://github.com/Rmehadje/Cub3dd.git)
+- **Description**: A real look back at one of the pioneers of shooter games (DOOM) and recreating the tracing system they developed through C.
+- **Technologies Used**: C and makefile.
+- **Key Features**: from 2D to 3D, ray tracing, wall collision.
+
+#### ⚙️ [Push_Swap]()
+- **Description**: The **Push Swap** project involves creating a sorting algorithm for a stack of integers. The goal is to sort the numbers in ascending order using a limited set of operations (push, swap, rotate, and reverse rotate) and to achieve this with minimal moves. This project emphasizes understanding data structures and algorithm optimization.
+- **Technologies Used**: C
+- **Key Features**: 
+  - Implementation of multiple sorting algorithms (e.g., bubble sort, quick sort).
+  - Optimization techniques to minimize the number of moves.
+  - Handling edge cases and large datasets efficiently.
+
 
 
 
