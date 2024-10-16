@@ -66,7 +66,7 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 
 ### 📬 Get in Touch
 Feel free to reach out if you're interested in discussing projects or collaborations!
-- [Portfolio](your-link)
+- [📖:(https://mehadjeri-rayan.netlify.app/))
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanmehadjeri6@gmail.com)
 
