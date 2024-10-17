@@ -61,7 +61,13 @@ Here are some of the projects I've worked on that I'm particularly proud of:
   - Easy to install and run.
   - two different methods used (5 integers and under/over 5 integers)
 
-
+#### 💻 [Inception](https://github.com/Rmehadje/Inception.git)
+- **Description**: Inception is a system administration project from 42 that involves creating and managing a set of Docker containers for a multi-service infrastructure. Using Docker Compose, the project integrates services like WordPress, MariaDB, and a reverse proxy into a secure, scalable, and efficient architecture.
+- **Technologies Used**: Docker, Docker-compose, Wordpress, NGINX, MariaDB, VMbox and Dabian Bullseye.
+- **Key Features**:
+  - Multi-Service Architecture.
+  - Docker Compose Integration.
+  - Scalability and Flexibility. 
 
 
 ### 📬 Get in Touch
