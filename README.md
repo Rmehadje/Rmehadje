@@ -3,11 +3,11 @@
 ## Hi, my name is Rayan Mehadjeri 👋
 
 ### 🌟 Who I am
-I'm a dedicated developer with a strong focus on coding in **C**, **C++**, **JavaScript**, **HTML**, and other web and system languages. My passion lies in creating efficient and scalable solutions while continuously learning new technologies to enhance my skills.
+I'm a Graduate from 42Heilbronn coding school, I am a dedicated developer with a strong focus on coding in **C**, **C++**, **typeScript**, **JavaScript**, **HTML**, and other web and system languages. My passion lies in creating efficient and scalable solutions while continuously learning new technologies to enhance my skills.
 
-- 🔭 I’m currently working on: Enhancing my projects with new features, building my portofolio and finishing my curriculum @ 42-Heilbronn Coding school.
-- 🌱 I’m learning: WebAssembly and AWS services.
-- 💬 Ask me about: **C**, **C++**, **JavaScript** and **HTML**!
+- 🔭 I’m currently working on: Enhancing my projects with new features, building my portofolio and looking for an Internship!
+- 🌱 I’m learning: AWS services, improving my coding skills in JS, TS in both frontend and backend.
+- 💬 Ask me about: **C**, **C++**, **JavaScript**, **GoLang**, **typescript** and **HTML**!
 - 📫 How to reach me: rayanmehadjeri6@gmail.com.
 
 ### 🛠 Technologies & Tools I Work With
